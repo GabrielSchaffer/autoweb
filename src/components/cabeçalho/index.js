@@ -41,6 +41,12 @@ export default function Cabeçalho() {
             <Typography variant="h6">AutoWeb</Typography>
           </Grid>
 
+          <Grid item xs={4} sx={{ backgroundColor: "gray" }}>
+            <Typography variant="h6">AutoWeb</Typography>
+          </Grid>
+
+          
+
 
         </Grid>
       </Box>
