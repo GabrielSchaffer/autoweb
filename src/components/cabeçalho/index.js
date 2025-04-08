@@ -7,26 +7,37 @@ export default function Cabeçalho() {
     <>
       <Box sx={{ flexGrow: 1 }}>
         <Grid container spacing={2}>
-          <Grid item xs={4}sx={{ backgroundColor:"red"}}>
+          <Grid item xs={4} sx={{ backgroundColor: "red" }}>
             <Typography variant="h6">AutoWeb</Typography>
           </Grid>
 
-          <Grid item xs={4} sx={{ backgroundColor:"blue"}}>
+          <Grid item xs={4} sx={{ backgroundColor: "blue" }}>
             <Typography variant="h6">AutoWeb</Typography>
           </Grid>
 
-          <Grid item xs={4} sx={{ backgroundColor:"gray"}}>
+          <Grid item xs={4} sx={{ backgroundColor: "gray" }}>
             <Typography variant="h6">AutoWeb</Typography>
           </Grid>
-          <Grid item xs={4}sx={{ backgroundColor:"yellow"}}>
-            <Typography variant="h6">AutoWeb</Typography>
-          </Grid>
-
-          <Grid item xs={4} sx={{ backgroundColor:"red"}}>
+          <Grid item xs={4} sx={{ backgroundColor: "yellow" }}>
             <Typography variant="h6">AutoWeb</Typography>
           </Grid>
 
-          <Grid item xs={4} sx={{ backgroundColor:"green"}}>
+          <Grid item xs={4} sx={{ backgroundColor: "red" }}>
+            <Typography variant="h6">AutoWeb</Typography>
+          </Grid>
+
+          <Grid item xs={4} sx={{ backgroundColor: "green" }}>
+            <Typography variant="h6">AutoWeb</Typography>
+          </Grid>
+          <Grid item xs={4} sx={{ backgroundColor: "red" }}>
+            <Typography variant="h6">AutoWeb</Typography>
+          </Grid>
+
+          <Grid item xs={4} sx={{ backgroundColor: "blue" }}>
+            <Typography variant="h6">AutoWeb</Typography>
+          </Grid>
+
+          <Grid item xs={4} sx={{ backgroundColor: "gray" }}>
             <Typography variant="h6">AutoWeb</Typography>
           </Grid>
 
