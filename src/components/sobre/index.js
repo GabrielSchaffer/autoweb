@@ -11,7 +11,9 @@ export default function Cabeçalho() {
             <Typography variant="h6">AutoWeb</Typography>
           </Grid>
 
-          
+          <Boy>
+          <Typography variant="h6">AutoWeb</Typography>
+          </Boy>
 
 
         </Grid>
